@@ -1,0 +1,20 @@
+button{
+    width: 110px;
+    height: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.buttonContainer{
+    width: 300px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.checkBox{
+    margin-left: 15px;
+    font-size: larger;
+}
