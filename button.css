@@ -3,18 +3,40 @@ button{
     height: 30px;
     text-align: center;
     margin-top: 10px;
+    background-color: orange;
 }
 
 .buttonContainer{
     width: 300px;
     text-align: center;
+
 }
 
 h2{
     text-align: center;
+    color: darkgrey;
+    margin: 5px;
 }
 
 .checkBox{
     margin-left: 15px;
     font-size: larger;
+    font-weight: bold;
+    color: gray;
+}
+
+html{
+    background-color: rgb(46, 46, 46);
+    height: 180px;
+}
+
+.textInput{
+    background-color: lightgray;
+    margin-top: 10px;
+}
+.searchTextContainer{
+    text-align: center;
+}
+.checkContainer{
+text-align: center;
 }
