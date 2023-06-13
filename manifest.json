@@ -1,7 +1,7 @@
 {
     "name": "Reddit Site Search",
     "description": "I have to make my own reddit site search extension because chrome is being difficult",
-    "version": "1.0",
+    "version": "3.0",
     "manifest_version": 3,
     "action": {
       "default_popup": "search.html"
